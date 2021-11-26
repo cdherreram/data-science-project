@@ -6,4 +6,4 @@ In this project was used Matplotlib and Seaborn for graphical results and Scikit
 
 The associated files in this project are:
 - A Jupyter Notebook with all analized results with technical issues.
-- A associated [blog](https://www.google.com.co) to this analysis.
+- A associated [blog](#) to this analysis.
