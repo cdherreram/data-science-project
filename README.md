@@ -14,6 +14,7 @@ The associated files in this project are:
 - Matplotlib and Seaborn: For graphical analysis
 - Scikit-learn: Library to develop ML models.
 
+## FIles
 This repository contains a Jupyter Notebook with all code to analyze the Airbnb data. For the .csv files, you can find all [here](https://www.kaggle.com/airbnb/seattle/data) for Seattle and [here](https://www.kaggle.com/airbnb/boston/data) for Boston data.
 
 ## Some results
